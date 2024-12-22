@@ -4,7 +4,7 @@ from collections import defaultdict
 
 # Konfiguracja strony
 st.set_page_config(
-    page_title="Email Finder",
+    page_title="Email Finder by tiny tools",
     page_icon="📧",
     layout="wide"
 )
