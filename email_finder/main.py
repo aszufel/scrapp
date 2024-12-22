@@ -6,7 +6,7 @@ Główny moduł programu Email Finder.
 import argparse
 import json
 from pathlib import Path
-from .email_finder import EmailFinder
+from email_finder.email_finder import EmailFinder
 import logging
 
 # Konfiguracja logowania
