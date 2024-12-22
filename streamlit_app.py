@@ -62,7 +62,7 @@ st.markdown("""
 # Nagłówek
 st.markdown("""
     <div class="header-container">
-        <h1>📧 Email Finder by tiny tools</h1>
+        <h1>📧 Email Finder</h1>
     </div>
 """, unsafe_allow_html=True)
 
@@ -145,4 +145,4 @@ if st.button('🔍 Rozpocznij skanowanie', use_container_width=True, type='prima
 
 # Stopka
 st.markdown("---")
-st.markdown("Made with ❤️ by [Adrian Szufel]")
+st.markdown("Made with ❤️ by tiny tools")
