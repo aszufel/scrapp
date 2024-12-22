@@ -145,4 +145,4 @@ if st.button('🔍 Rozpocznij skanowanie', use_container_width=True, type='prima
 
 # Stopka
 st.markdown("---")
-st.markdown("Made with ❤️ by [Twoje Imię]")
+st.markdown("Made with ❤️ by [Adrian Szufel]")
