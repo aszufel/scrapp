@@ -4,7 +4,7 @@ from collections import defaultdict
 
 # Konfiguracja strony
 st.set_page_config(
-    page_title="Email Finder by tiny tools",
+    page_title="Email Finder",
     page_icon="📧",
     layout="wide"
 )
@@ -62,7 +62,7 @@ st.markdown("""
 # Nagłówek
 st.markdown("""
     <div class="header-container">
-        <h1>📧 Email Finder</h1>
+        <h1>📧 Email Finder by tiny tools</h1>
     </div>
 """, unsafe_allow_html=True)
 
