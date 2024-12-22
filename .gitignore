@@ -1,0 +1,21 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Środowiska wirtualne
+venv/
+.env/
+
+# Pliki wynikowe
+emails_data.csv
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Pliki systemowe
+.DS_Store  # dla MacOS
+Thumbs.db  # dla Windows
